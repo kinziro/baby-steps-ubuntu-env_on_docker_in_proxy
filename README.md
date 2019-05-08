@@ -35,7 +35,7 @@ $ git clone https://github.com/kinziro/baby-steps-ubuntu-env_on_docker_in_proxy.
 ## Usage
 
 ### 設定
-1. Dockerfileの「PROXY_ID」, 「PROXY_PASS」, 「PROXY_HOST」, 「PROXY_PORT」のoooを自分のプロキシの「認証ID」, 「認証パスワード」, 「URL」, 「ポート番号」に変更
+1. Dockerfileの「PROXY_ID」, 「PROXY_PASS」, 「PROXY_HOST」, 「PROXY_PORT」のoooを自分のプロキシの「認証ID」, 「認証パスワード」, 「サーバー名」, 「ポート番号」に変更
 1. run.shの「'localdir'」を自分のリポジトリを置いているディレクトリに変更
 
 ### コンテナ内のユーザー
